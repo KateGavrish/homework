@@ -1,1 +1,8 @@
 ничем не отличаются
+всего 13 коммитов (считая обновление этого файла)
+task1
+task
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+1
+Это коммиты для этой задачи
